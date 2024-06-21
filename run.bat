@@ -1,0 +1,1 @@
+python demo.py --source "D:\My projects\python development\input files\teaser.mov" --background "D:\My projects\python development\input files\background video.mp4" --weight "D:\My projects\python development\VideoMatting\weights\modnet_photographic_portrait_matting.ckpt" --demo_mode
